@@ -1,5 +1,6 @@
 {
   "name": "freecodecamp",
+  "author": "skylar",
   "version": "0.1.0",
   "private": true,
   "scripts": {
